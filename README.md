@@ -11,12 +11,12 @@ Each lab will have a short coding question.
 
 ## Practicals
 Practicals will be in the form of data analysis competitions. You will be presented with a task (for example, writing a program that identifies images of cats). Submissions will be made in real time through a google form , and a leaderboard will be updated in real time. The winner of each practical will get a prize. There will be three practicals.
-- Practical 1: TBA
-- Practical 2: TBA
-- Practical 3: TBA
+- Practical 1: Breast Cancer Detection
+- Practical 2: Toxic Comments Detection
+- Practical 3: Heart Abnormalities Detection
 
 ## Final Project
-The last session will be dedicated to a short final project. Topics TBA.
+The last session will be dedicated to a short final project. 
 
 ## Office Hours
 By appointment.
